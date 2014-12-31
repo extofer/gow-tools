@@ -1,0 +1,7 @@
+C:\Users\gvilla\Documents\Dev-Sandbox\gow-tools\app\gow-tools\gow-unzip\bin\Debug\unzip.exe
+C:\Users\gvilla\Documents\Dev-Sandbox\gow-tools\app\gow-tools\gow-unzip\bin\Debug\unzip.pdb
+C:\Users\gvilla\Documents\Dev-Sandbox\gow-tools\app\gow-tools\gow-unzip\obj\Debug\gow-unzip.csprojResolveAssemblyReference.cache
+C:\Users\gvilla\Documents\Dev-Sandbox\gow-tools\app\gow-tools\gow-unzip\obj\Debug\unzip.exe
+C:\Users\gvilla\Documents\Dev-Sandbox\gow-tools\app\gow-tools\gow-unzip\obj\Debug\unzip.pdb
+C:\Users\gvilla\Documents\Dev-Sandbox\gow-tools\bin\unzip.exe
+C:\Users\gvilla\Documents\Dev-Sandbox\gow-tools\bin\unzip.pdb

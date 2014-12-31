@@ -1,0 +1,3 @@
+C:\Users\gvilla\Documents\Dev-Sandbox\gow-tools\bin\unzip.exe
+C:\Users\gvilla\Documents\Dev-Sandbox\gow-tools\app\gow-unzip\obj\Release\gow-unzip.csprojResolveAssemblyReference.cache
+C:\Users\gvilla\Documents\Dev-Sandbox\gow-tools\app\gow-unzip\obj\Release\unzip.exe

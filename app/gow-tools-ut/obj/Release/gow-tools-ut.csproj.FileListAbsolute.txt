@@ -1,0 +1,4 @@
+C:\Users\gvilla\Documents\Dev-Sandbox\gow-tools\app\gow-tools-ut\bin\Release\gow-tools-ut.dll
+C:\Users\gvilla\Documents\Dev-Sandbox\gow-tools\app\gow-tools-ut\bin\Release\gow-tools-ut.pdb
+C:\Users\gvilla\Documents\Dev-Sandbox\gow-tools\app\gow-tools-ut\obj\Release\gow-tools-ut.dll
+C:\Users\gvilla\Documents\Dev-Sandbox\gow-tools\app\gow-tools-ut\obj\Release\gow-tools-ut.pdb
