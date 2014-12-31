@@ -2,7 +2,8 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-using System.IO;
+using gow.tools.Common;
+using gow.tools.Unzip;
 
 
 namespace gow.unzip
@@ -12,13 +13,13 @@ namespace gow.unzip
         static void Main(string[] args)
             {
 
-            string startPath = @"c:\example\start";
-            string zipPath = @"c:\example\result.zip";
-            string extractPath = @"c:\example\extract";
+            Extract extract = new Extract();
+            Arguments arguments = new Arguments(args);
 
-            System.IO.Compression.ZipFile.CreateFromDirectory(startPath, zipPath);
-            System.IO.Compression.ZipFile.ExtractToDirectory(zipPath, extractPath);
+            extract.ExtractFile(args[0]);
 
             }
+
+
         }
     }

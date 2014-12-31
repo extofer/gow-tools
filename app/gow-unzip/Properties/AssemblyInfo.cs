@@ -6,11 +6,11 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("gow-unzip")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("command line tool to uncompress zip files")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Premiere")]
+[assembly: AssemblyCompany("Extofer | www.extofer.com")]
 [assembly: AssemblyProduct("gow-unzip")]
-[assembly: AssemblyCopyright("Copyright © Premiere 2014")]
+[assembly: AssemblyCopyright("Copyright © Extofer 2014")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
@@ -32,5 +32,5 @@ using System.Runtime.InteropServices;
 // You can specify all the values or you can default the Build and Revision Numbers 
 // by using the '*' as shown below:
 // [assembly: AssemblyVersion("1.0.*")]
-[assembly: AssemblyVersion("1.0.0.0")]
-[assembly: AssemblyFileVersion("1.0.0.0")]
+[assembly: AssemblyVersion("0.1.0.0")]
+[assembly: AssemblyFileVersion("0.1.0.0")]

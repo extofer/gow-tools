@@ -6,7 +6,7 @@ using System.Collections.Specialized;
 using System.Text.RegularExpressions;
 
 
-namespace gow.tools
+namespace gow.tools.Common
     {
     /// <summary>
     /// Arguments class

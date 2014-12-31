@@ -1,2 +1,3 @@
 C:\Users\gvilla\Documents\Dev-Sandbox\gow-tools\app\gow-tools\bin\Release\gow-tools.dll
+C:\Users\gvilla\Documents\Dev-Sandbox\gow-tools\app\gow-tools\obj\Release\gow-tools.csprojResolveAssemblyReference.cache
 C:\Users\gvilla\Documents\Dev-Sandbox\gow-tools\app\gow-tools\obj\Release\gow-tools.dll

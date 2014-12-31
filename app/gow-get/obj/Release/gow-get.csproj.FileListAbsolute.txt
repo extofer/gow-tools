@@ -1,3 +1,4 @@
+C:\Users\gvilla\Documents\Dev-Sandbox\gow-tools\bin\gow-get.exe.config
 C:\Users\gvilla\Documents\Dev-Sandbox\gow-tools\bin\gow-get.exe
 C:\Users\gvilla\Documents\Dev-Sandbox\gow-tools\app\gow-get\obj\Release\gow-get.csprojResolveAssemblyReference.cache
 C:\Users\gvilla\Documents\Dev-Sandbox\gow-tools\app\gow-get\obj\Release\gow-get.exe
